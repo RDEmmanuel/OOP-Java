@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Escuela
+comment0.text=\r\n\ Clase\ Escuela,\ Ejercicio\ 6\ del\ TP3.\r\n\ \r\n\ @author\ (Ruiz\ Diaz\ Emmanuel)\ \r\n\ @version\ (2020)\r\n
+comment1.params=p_nombre\ p_domicilio\ p_director
+comment1.target=Escuela(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ Escuela\r\n
+comment2.params=p_nombre
+comment2.target=void\ setNombre(java.lang.String)
+comment2.text=\r\n\ Setters\ y\ Getters\ de\ la\ clase\ Escuela\r\n
+comment3.params=
+comment3.target=java.lang.String\ getNombre()
+comment4.params=p_domicilio
+comment4.target=void\ setDomicilio(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getDomicilio()
+comment6.params=p_director
+comment6.target=void\ setDirector(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getDirector()
+comment8.params=p_docente
+comment8.target=void\ imprimirRecibo(Docente)
+comment8.text=\r\n\ Metodo\ que\ imprime\ por\ pantalla\ el\ recibo\ \r\n\ muestra\ nombre\ domicilio\ y\ director\ de\ la\ escuela.\r\n\ nombre,\ sueldo\ basico\ asignacion\ familiar\ del\ docente.\r\n
+numComments=9

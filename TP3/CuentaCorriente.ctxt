@@ -1,0 +1,41 @@
+#BlueJ class context
+comment0.target=CuentaCorriente
+comment0.text=\r\n\ Clase\ CuentaCorriente,\ ejercicio\ 7\ del\ TP3.\r\n\ \r\n\ @author\ (Ruiz\ Diaz\ Emmanuel)\ \r\n\ @version\ (2020)\r\n
+comment1.params=p_nroCuenta\ p_titular
+comment1.target=CuentaCorriente(int,\ Persona)
+comment1.text=\r\n\ Constructores\ de\ la\ clase\ CuentaCorriente\r\n
+comment10.params=
+comment10.target=double\ getLimiteDescubierto()
+comment11.params=p_importe
+comment11.target=void\ depositar(double)
+comment11.text=\r\n\ Metodo\ para\ realizar\ un\ deposito\ (saldo\ \=\ saldo\ +\ p_importe)\r\n
+comment12.params=p_importe
+comment12.target=boolean\ puedeExtraer(double)
+comment12.text=\r\n\ Metodo\ que\ devuelve\ verdadero\ si\ se\ puede\ realizar\ la\ extraccion,\ en\ caso\ contrario\ devuelve\ falso\r\n\ @return\ true\ or\ false\r\n
+comment13.params=p_importe
+comment13.target=void\ extraccion(double)
+comment13.text=\r\n\ Metodo\ que\ realiza\ efectivamente\ la\ extraccion\ (saldo\ \=\ saldo\ -\ p_importe)\r\n
+comment14.params=p_importe
+comment14.target=void\ extraer(double)
+comment14.text=\r\n\ Metodo\ que\ coordina\ la\ operacion,\ de\ acuerdo\ a\ si\ se\ cumplen\ las\ condiciones,\ caso\ contrario\r\n\ informa\ el\ motivo\ por\ el\ cual\ no\ se\ pudo\ realizar\ la\ extraccion.\r\n
+comment15.params=
+comment15.target=void\ mostrar()
+comment15.text=\r\n\ Metodo\ que\ imprime\ en\ pantalla\ los\ datos\ de\ la\ Cuenta\ Corriente\r\n\ Muestra\ nro\ de\ cuenta,\ saldo,\ nombre\ y\ apellido\ del\ titular,\ y\ el\ limite\ descubierto\r\n
+comment2.params=p_nroCuenta\ p_titular\ p_saldo
+comment2.target=CuentaCorriente(int,\ Persona,\ double)
+comment3.params=p_nroCuenta
+comment3.target=void\ setNroCuenta(int)
+comment3.text=\r\n\ Setters\ y\ Getters\ de\ la\ clase\ CuentaCorriente\r\n
+comment4.params=
+comment4.target=int\ getNroCuenta()
+comment5.params=p_titular
+comment5.target=void\ setTitular(Persona)
+comment6.params=
+comment6.target=Persona\ getTitular()
+comment7.params=p_saldo
+comment7.target=void\ setSaldo(double)
+comment8.params=
+comment8.target=double\ getSaldo()
+comment9.params=p_limite
+comment9.target=void\ setLimiteDescubierto(double)
+numComments=16

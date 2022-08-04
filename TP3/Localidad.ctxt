@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Localidad
+comment0.text=\r\n\ Clase\ Localidad\ ejercicio\ 8\ TP3.\r\n\ \r\n\ @author\ (Ruiz\ Diaz\ Emmanuel)\ \r\n\ @version\ (2020)\r\n
+comment1.params=p_nombre\ p_provincia
+comment1.target=Localidad(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ Localidad\r\n
+comment2.params=p_nombre
+comment2.target=void\ setNombre(java.lang.String)
+comment2.text=\r\n\ Setters\ y\ Getters\ de\ la\ clase\ Localidad\r\n
+comment3.params=
+comment3.target=java.lang.String\ getNombre()
+comment4.params=p_provincia
+comment4.target=void\ setProvincia(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getProvincia()
+comment6.params=
+comment6.target=java.lang.String\ mostrar()
+comment6.text=\r\n\ Metodo\ que\ devuelve\ una\ cadena\ formada\ por\ la\ concatenacion\ de\ la\ localidad\ y\ provincia\r\n
+numComments=7

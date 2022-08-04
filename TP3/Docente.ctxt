@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Docente
+comment0.text=\r\n\ Clase\ Docente,\ Ejercicio\ 6\ del\ TP3.\r\n\ \r\n\ @author\ (Ruiz\ Diaz\ Emmanuel)\ \r\n\ @version\ (2020)\r\n
+comment1.params=p_nombre\ p_grado\ p_sueldoBasico\ p_asignacionFamiliar
+comment1.target=Docente(java.lang.String,\ java.lang.String,\ double,\ double)
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ Docente\r\n
+comment10.params=
+comment10.target=double\ calcularSueldo()
+comment10.text=\r\n\ Metodo\ que\ calcula\ el\ sueldo\ total\ \=\ sueldo\ basico\ +\ asignacion\ familiar\r\n\ @return\ sueldo\ total\r\n
+comment2.params=p_nombre
+comment2.target=void\ setNombre(java.lang.String)
+comment2.text=\r\n\ Setters\ y\ Getters\ de\ la\ clase\ Docente\r\n
+comment3.params=
+comment3.target=java.lang.String\ getNombre()
+comment4.params=p_grado
+comment4.target=void\ setGrado(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getGrado()
+comment6.params=p_sueldoBasico
+comment6.target=void\ setSueldoBasico(double)
+comment7.params=
+comment7.target=double\ getSueldoBasico()
+comment8.params=p_asignacionFamiliar
+comment8.target=void\ setAsignacionFamiliar(double)
+comment9.params=
+comment9.target=double\ getAsignacionFamiliar()
+numComments=11
